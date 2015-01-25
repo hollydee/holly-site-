@@ -1,0 +1,58 @@
+*{
+	margin: 0 auto;
+}
+	h1 {
+	font-family: Garamond, serif;
+	font-size: 64px;
+}
+	h2 {
+	font-family: Garamond, serif;
+	font-size: 34px;
+}
+	p {
+	font-family: Garamond, serif;
+	font-size: 24px;
+}
+#header {
+	background:url('../images/holly-gonzalez-logo.png');
+	background-repeat: no-repeat;
+	width: 900px;
+	height: 150px;
+	margin: 0 auto;
+}
+
+#container {
+	width: 900px;
+	margin: 0 auto;
+}
+#sidebar {
+	width: 200px;
+	height: 400px;
+	background-color: #52411c;
+	float: left;
+}
+#main-content {
+	background-color: white;
+	color:#;
+	width: 700px;
+	height: 400px;
+	float: right;
+}
+#footer {
+	clear: both;
+	background-color:#95c940;
+	width: 880px;
+	margin: 0 auto;
+	padding:
+
+	a:hover {
+		color:white;
+}
+
+.clearfix {
+	clear: both;
+}
+
+
+	
+	
